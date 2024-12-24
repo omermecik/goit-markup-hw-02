@@ -135,7 +135,10 @@ header {
 .our-team-title {
   color: #2e2f42;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   margin-bottom: 72px;
 }
 .member-photo {
@@ -159,6 +162,7 @@ header {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  font-weight: 500;
   color: #2e2f42;
 }
 .member-role {
