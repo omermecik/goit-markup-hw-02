@@ -227,23 +227,27 @@ footer {
   padding: 100px 156px;
 }
 .f-web {
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 .f-studio {
     color: #F4F4FD;
     font-size: 18px;
-    line-height: 1.16;
+    font-weight: 700;
+    line-height: 1.17;
     margin-left: -3px;
     display: inline-block;
-
+    text-transform: uppercase;
 }
 .footer-p {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   width: 264px;
+  letter-spacing: 0.02em;
 }
 .footer-logo {
   margin-bottom: 16px;
