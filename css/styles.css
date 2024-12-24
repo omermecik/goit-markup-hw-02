@@ -2,7 +2,8 @@ body {
   font-family: "Roboto", sans-serif;
   max-width: 1440px;
   margin: 0 auto;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 a {
   text-decoration: none;
@@ -236,7 +237,7 @@ footer {
     line-height: 1.16;
     margin-left: -3px;
     display: inline-block;
-    
+
 }
 .footer-p {
   color: #f4f4fd;
